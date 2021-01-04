@@ -4,5 +4,5 @@ This repo shows the effects of a tree-shakeable version of `preact/compat`. `web
 
 Running this on my machine, I got the following results for the built bundle:
 
-- 5.69kb gzipped when using the tree-shakeable compat
+- 5.69kb gzipped when using the [tree-shakeable compat](https://github.com/lemonmade/quilt/tree/main/packages/preact-mini-compat)
 - 6.89kb gzipped when using the existing `preact/compat`
